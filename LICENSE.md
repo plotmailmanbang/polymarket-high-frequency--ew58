@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Automation Script: order-book-analysis & volatility-detection offers the most advanced Polymarket automation-script, with order-book-analysis and
 
 
 
